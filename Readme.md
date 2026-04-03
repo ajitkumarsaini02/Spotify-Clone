@@ -39,7 +39,6 @@ Spotify-Web-Player/
 ├── assets/
 │   ├── logo.png
 │   ├── card images
-│   ├── player icons
 │
 └── Homework Assets/
     ├── album_picture.jpeg
